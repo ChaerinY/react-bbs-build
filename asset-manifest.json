@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-bbs-build/static/css/main.86962637.css",
-    "main.js": "/react-bbs-build/static/js/main.783cf8fa.js",
+    "main.css": "/react-bbs-build/static/css/main.def9a0ff.css",
+    "main.js": "/react-bbs-build/static/js/main.61c56b53.js",
     "static/js/787.95f9c4a1.chunk.js": "/react-bbs-build/static/js/787.95f9c4a1.chunk.js",
     "index.html": "/react-bbs-build/index.html",
-    "main.86962637.css.map": "/react-bbs-build/static/css/main.86962637.css.map",
-    "main.783cf8fa.js.map": "/react-bbs-build/static/js/main.783cf8fa.js.map",
+    "main.def9a0ff.css.map": "/react-bbs-build/static/css/main.def9a0ff.css.map",
+    "main.61c56b53.js.map": "/react-bbs-build/static/js/main.61c56b53.js.map",
     "787.95f9c4a1.chunk.js.map": "/react-bbs-build/static/js/787.95f9c4a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86962637.css",
-    "static/js/main.783cf8fa.js"
+    "static/css/main.def9a0ff.css",
+    "static/js/main.61c56b53.js"
   ]
 }
